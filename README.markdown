@@ -1,1 +1,1 @@
-Want to know how this works? Read up on the forem wiki: https://github.com/radar/forem/wiki/Theming
+Since Forem is no longer being maintained, Radar has taken down their bootstrap-theme repo.  Understandable. Until a decision is made on Mineraliety's forum direction (not crazy about thredded), I'll update this for Rails 5 Compatibility
